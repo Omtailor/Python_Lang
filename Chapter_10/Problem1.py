@@ -1,6 +1,6 @@
 # Create Class Programmmer for storing Information of Few Programmers working at Microsoft
 class Programmer:
-    company = "Microsoft"
+    company = "TCS"
     def __init__(self, name, language, Position, Salary, company):
         self.name = name
         self.language = language
