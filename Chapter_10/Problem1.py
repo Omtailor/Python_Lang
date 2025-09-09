@@ -8,5 +8,5 @@ class Programmer:
         self.Position = Position
         self.company = company
         
-om = Programmer("Om Tailor,", " Full Stack + AI,", " SWE Intern", 150000, ", Microsoft")
+om = Programmer("Om Tailor,", " Choding,", " Majdoor", 150, ", TCS")
 print(om.name, om.language, om.Salary, om.Position, om.company)
